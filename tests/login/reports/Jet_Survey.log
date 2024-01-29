@@ -1,0 +1,278 @@
+27/01/24 04:29:34 PM Saturday - PageUtils - ERROR :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@text="f"] is not visible
+27/01/24 04:29:46 PM Saturday - PageUtils - ERROR : Unable to send text on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText[@text="f"]
+27/01/24 04:29:47 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 04:29:47 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 04:32:03 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 04:32:03 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 04:32:08 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 04:32:08 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:44:55 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:44:55 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:45:00 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 07:45:01 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:45:03 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:45:04 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:45:10 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:45:10 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:45:24 PM Saturday - PageUtils - ERROR :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"] is not visible
+27/01/24 07:45:36 PM Saturday - PageUtils - ERROR : Unable to click on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:49:05 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:49:05 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:49:10 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 07:49:10 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:49:12 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:49:12 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:49:18 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:49:19 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:49:32 PM Saturday - PageUtils - ERROR :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"] is not visible
+27/01/24 07:49:45 PM Saturday - PageUtils - ERROR : Unable to click on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:53:48 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:53:49 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:53:53 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 07:53:53 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:53:56 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+27/01/24 07:53:56 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+27/01/24 07:54:12 PM Saturday - PageUtils - ERROR :  Element with LocatorType: id and with the locatorValue :00000000-0000-0113-0000-001b0000000f is not visible
+27/01/24 07:54:24 PM Saturday - PageUtils - ERROR : Unable to send text on Element with LocatorType: id and with the locatorValue :00000000-0000-0113-0000-001b0000000f
+27/01/24 07:54:26 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+27/01/24 07:54:27 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+27/01/24 07:55:19 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:55:19 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:55:23 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 07:55:23 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:55:25 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+27/01/24 07:55:25 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+27/01/24 07:56:00 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+27/01/24 07:56:01 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+27/01/24 07:56:05 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+27/01/24 07:56:05 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+27/01/24 07:56:07 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+27/01/24 07:56:08 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+27/01/24 07:56:13 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+27/01/24 07:56:13 PM Saturday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+27/01/24 07:56:17 PM Saturday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+27/01/24 07:56:18 PM Saturday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+28/01/24 01:10:58 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+28/01/24 01:10:59 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+28/01/24 01:11:03 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+28/01/24 01:11:03 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+28/01/24 01:11:06 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+28/01/24 01:11:07 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+28/01/24 01:11:13 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+28/01/24 01:11:14 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+28/01/24 01:11:18 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+28/01/24 01:11:18 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+28/01/24 01:11:34 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBoxis visible 
+28/01/24 01:11:38 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBox
+28/01/24 01:11:40 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBoxis visible 
+28/01/24 01:11:40 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBox
+28/01/24 01:11:43 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBoxis visible 
+28/01/24 01:11:43 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBox
+28/01/24 01:11:50 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 01:11:51 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 02:58:20 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+28/01/24 02:58:20 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+28/01/24 02:58:24 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+28/01/24 02:58:25 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+28/01/24 02:58:28 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+28/01/24 02:58:29 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+28/01/24 02:58:35 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+28/01/24 02:58:35 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+28/01/24 02:58:39 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+28/01/24 02:58:39 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+28/01/24 02:58:43 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBoxis visible 
+28/01/24 02:58:43 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBox
+28/01/24 02:58:48 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBoxis visible 
+28/01/24 02:58:49 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBox
+28/01/24 02:58:54 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBoxis visible 
+28/01/24 02:58:55 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBox
+28/01/24 02:59:00 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 02:59:01 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 02:59:13 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButtonis visible 
+28/01/24 02:59:14 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButton
+28/01/24 02:59:16 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 02:59:17 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 02:59:21 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButtonis visible 
+28/01/24 02:59:21 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButton
+28/01/24 02:59:30 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 02:59:31 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 02:59:37 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]is visible 
+28/01/24 02:59:37 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]
+28/01/24 02:59:50 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]is visible 
+28/01/24 02:59:51 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]
+28/01/24 03:00:01 PM Sunday - PageUtils - ERROR : Unable to click on Element with LocatorType: xpath and with the locatorValue :com.example.compose.jetsurvey:id/confirm_button
+28/01/24 03:01:23 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+28/01/24 03:01:23 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+28/01/24 03:01:26 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+28/01/24 03:01:27 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+28/01/24 03:01:29 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+28/01/24 03:01:29 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+28/01/24 03:01:35 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+28/01/24 03:01:35 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+28/01/24 03:01:39 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+28/01/24 03:01:40 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+28/01/24 03:01:50 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBoxis visible 
+28/01/24 03:01:51 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBox
+28/01/24 03:01:54 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBoxis visible 
+28/01/24 03:01:54 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBox
+28/01/24 03:01:57 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBoxis visible 
+28/01/24 03:01:57 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBox
+28/01/24 03:01:59 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:01:59 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:02:01 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButtonis visible 
+28/01/24 03:02:04 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButton
+28/01/24 03:02:05 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:02:06 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:02:21 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButtonis visible 
+28/01/24 03:02:22 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButton
+28/01/24 03:02:25 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:02:25 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:02:28 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]is visible 
+28/01/24 03:02:29 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]
+28/01/24 03:02:33 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]is visible 
+28/01/24 03:02:34 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]
+28/01/24 03:02:37 PM Sunday - PageUtils - ERROR : Unable to click on Element with LocatorType: xpath and with the locatorValue :com.example.compose.jetsurvey:id/confirm_button
+28/01/24 03:07:20 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+28/01/24 03:07:20 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+28/01/24 03:07:25 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+28/01/24 03:07:27 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+28/01/24 03:07:30 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+28/01/24 03:07:30 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+28/01/24 03:07:35 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+28/01/24 03:07:35 PM Sunday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+28/01/24 03:07:50 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+28/01/24 03:07:50 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+28/01/24 03:08:02 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBoxis visible 
+28/01/24 03:08:04 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBox
+28/01/24 03:08:06 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBoxis visible 
+28/01/24 03:08:06 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBox
+28/01/24 03:08:08 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBoxis visible 
+28/01/24 03:08:08 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBox
+28/01/24 03:08:10 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:08:10 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:08:28 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButtonis visible 
+28/01/24 03:08:29 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButton
+28/01/24 03:08:34 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:08:34 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:08:35 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButtonis visible 
+28/01/24 03:08:36 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButton
+28/01/24 03:08:39 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:08:40 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:08:42 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]is visible 
+28/01/24 03:08:42 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]
+28/01/24 03:08:45 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]is visible 
+28/01/24 03:08:46 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]
+28/01/24 03:08:49 PM Sunday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.example.compose.jetsurvey:id/confirm_buttonis visible 
+28/01/24 03:08:51 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.example.compose.jetsurvey:id/confirm_button
+28/01/24 03:08:52 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:08:52 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:09:02 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.SeekBar[@text="1.0"]is visible 
+28/01/24 03:09:02 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.SeekBar[@text="1.0"]
+28/01/24 03:09:04 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+28/01/24 03:09:04 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+28/01/24 03:09:19 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="ADD PHOTO"]is visible 
+28/01/24 03:09:40 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="ADD PHOTO"]
+28/01/24 03:09:42 PM Sunday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/shutter_buttonis visible 
+28/01/24 03:09:42 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/shutter_button
+28/01/24 03:09:46 PM Sunday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/done_buttonis visible 
+28/01/24 03:09:46 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/done_button
+28/01/24 03:09:51 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]is visible 
+28/01/24 03:09:54 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]
+28/01/24 03:09:58 PM Sunday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]is visible 
+28/01/24 03:09:59 PM Sunday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]
+29/01/24 11:15:19 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+29/01/24 11:15:19 AM Monday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+29/01/24 11:15:24 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+29/01/24 11:15:24 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+29/01/24 11:15:27 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+29/01/24 11:15:27 AM Monday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+29/01/24 11:15:33 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+29/01/24 11:15:33 AM Monday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+29/01/24 11:15:37 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+29/01/24 11:15:37 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+29/01/24 11:15:40 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBoxis visible 
+29/01/24 11:15:40 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBox
+29/01/24 11:15:41 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBoxis visible 
+29/01/24 11:15:42 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBox
+29/01/24 11:15:44 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBoxis visible 
+29/01/24 11:15:45 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBox
+29/01/24 11:15:46 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 11:15:46 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 11:15:48 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButtonis visible 
+29/01/24 11:15:49 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButton
+29/01/24 11:15:50 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 11:15:50 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 11:15:53 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButtonis visible 
+29/01/24 11:15:53 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButton
+29/01/24 11:15:55 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 11:15:55 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 11:15:57 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]is visible 
+29/01/24 11:15:59 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]
+29/01/24 11:16:03 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]is visible 
+29/01/24 11:16:05 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]
+29/01/24 11:16:06 AM Monday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.example.compose.jetsurvey:id/confirm_buttonis visible 
+29/01/24 11:16:07 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.example.compose.jetsurvey:id/confirm_button
+29/01/24 11:16:08 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 11:16:09 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 11:16:10 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.SeekBar[@text="1.0"]is visible 
+29/01/24 11:16:11 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.SeekBar[@text="1.0"]
+29/01/24 11:16:13 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 11:16:14 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 11:16:16 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="ADD PHOTO"]is visible 
+29/01/24 11:16:20 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="ADD PHOTO"]
+29/01/24 11:16:23 AM Monday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/shutter_buttonis visible 
+29/01/24 11:16:23 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/shutter_button
+29/01/24 11:16:27 AM Monday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/done_buttonis visible 
+29/01/24 11:16:27 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/done_button
+29/01/24 11:16:30 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]is visible 
+29/01/24 11:16:31 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]
+29/01/24 11:16:33 AM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]is visible 
+29/01/24 11:16:37 AM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]
+29/01/24 12:21:27 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.EditTextis visible 
+29/01/24 12:21:27 PM Monday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.widget.EditText
+29/01/24 12:21:32 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]is visible 
+29/01/24 12:21:32 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="CONTINUE"]
+29/01/24 12:21:35 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]is visible 
+29/01/24 12:21:35 PM Monday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[1]
+29/01/24 12:21:40 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]is visible 
+29/01/24 12:21:41 PM Monday - PageUtils - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://android.view.ViewGroup[@resource-id="com.example.compose.jetsurvey:id/sign_in_fragment"]/android.view.View/android.widget.EditText[2]
+29/01/24 12:21:45 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]is visible 
+29/01/24 12:21:47 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Sign in"]
+29/01/24 12:21:51 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBoxis visible 
+29/01/24 12:21:52 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Read"]/android.widget.CheckBox
+29/01/24 12:21:53 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBoxis visible 
+29/01/24 12:21:54 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Work out"]/android.widget.CheckBox
+29/01/24 12:21:55 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBoxis visible 
+29/01/24 12:21:56 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Play video games"]/android.widget.CheckBox
+29/01/24 12:21:59 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 12:22:00 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 12:22:07 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButtonis visible 
+29/01/24 12:22:08 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Spider man (Avengers)"]/android.widget.RadioButton
+29/01/24 12:22:09 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 12:22:11 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 12:22:12 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButtonis visible 
+29/01/24 12:22:13 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.view.View[@text="Outbreak"]/android.widget.RadioButton
+29/01/24 12:22:15 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 12:22:15 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 12:22:17 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]is visible 
+29/01/24 12:22:17 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="Pick a date"]
+29/01/24 12:22:19 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]is visible 
+29/01/24 12:22:21 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.TextView[@content-desc="Wed, Jan 17"]
+29/01/24 12:22:22 PM Monday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.example.compose.jetsurvey:id/confirm_buttonis visible 
+29/01/24 12:22:23 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.example.compose.jetsurvey:id/confirm_button
+29/01/24 12:22:27 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 12:22:28 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 12:22:30 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.SeekBar[@text="1.0"]is visible 
+29/01/24 12:22:31 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.SeekBar[@text="1.0"]
+29/01/24 12:22:32 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]is visible 
+29/01/24 12:22:32 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="NEXT"]
+29/01/24 12:22:36 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="ADD PHOTO"]is visible 
+29/01/24 12:22:39 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="ADD PHOTO"]
+29/01/24 12:22:41 PM Monday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/shutter_buttonis visible 
+29/01/24 12:22:45 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/shutter_button
+29/01/24 12:23:17 PM Monday - PageUtils - INFO :  Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/done_buttonis visible 
+29/01/24 12:23:17 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.oplus.camera:id/done_button
+29/01/24 12:23:19 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]is visible 
+29/01/24 12:23:19 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]
+29/01/24 12:23:23 PM Monday - PageUtils - INFO :  Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]is visible 
+29/01/24 12:23:23 PM Monday - PageUtils - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.Button[@text="DONE"]
